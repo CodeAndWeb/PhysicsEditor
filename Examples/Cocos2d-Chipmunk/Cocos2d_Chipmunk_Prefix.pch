@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Cocos2d-Chipmunk' target in the 'Cocos2d-Chipmunk' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
